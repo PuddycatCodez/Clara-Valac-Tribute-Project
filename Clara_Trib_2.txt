@@ -1,0 +1,40 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main id="main"> 
+  <h1 id="title">Clara Valac</h1>
+  <p>A demoness from the Anime: Welcome to Demon School Iruma-Kun!</p>
+  <figure id="img-div">
+    <img id="image" src="https://static.wikia.nocookie.net/mairimashita-irumakun/images/6/6b/Clara.png/revision/latest?cb=20181030021020" alt="Clara Valac a demon girl with cute green hair posing and smiling.">
+    <figcaption id="img-caption"> Clara Valac is known for this smile and pose.
+    </figcaption>
+    <section id="tribute-info">
+      <h2>Apearance</h2>
+        <p>Clara has straight, lime green hair, green eyes with green eyelashes, and is well known for her white goat-like horns. She wears a pinkish-white school uniform top with deep pink bowtie and skirt, which is acustomed to all the girls at the Demon School. Clara has special yellow pockets on her skirt which is apart of her family's demon ability. </p>
+        <h2>Demon Ability</h2>
+        <p>The members of the Valac family have the ability to summon anything out of their special pockets and attach them onto their clothing. No one else has the ability to use them. The item seemingly get created out of nowhere, but is hinted to be taken from another source.</p>
+    <h3>To read more about Clara you should check out her page on the <a id="tribute-link" target="_blank" href="https://mairimashita-irumakun.fandom.com/wiki/Valac_Clara">Fandom website</a></h2> 
+        </section>
+  </main>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+h1 {text-align: center; padding-top: 20px}
+p {align-text: center; font-family: Tahoma; padding-left: 20px; padding-bottom: 10px}
+img {max-width: 100%; height: auto; align: center; display: block; margin-left: auto; margin-right: auto;}
+figcaption {text-align: center}
+h2 {text-align: left;}
+h3 {text-align: center; padding-left: 20px; padding-right: 20px}
+
+
+** end of undefined **
+
